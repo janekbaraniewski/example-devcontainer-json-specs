@@ -1,1 +1,1 @@
-FROM mcr.microsoft.com/devcontainers/go:1.22-bullseye
+FROM golang:1.22-bullseye
